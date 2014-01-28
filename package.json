@@ -20,7 +20,8 @@
   },
 
   "dependencies": {
-    "coffee-script": "~1.6"
+    "coffee-script": "~1.6",
+    "cheerio": "0.13.x"
   },
 
   "devDependencies": {
