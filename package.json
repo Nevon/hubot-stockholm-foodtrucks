@@ -1,7 +1,7 @@
 {
   "name": "hubot-stockholm-foodtrucks",
   "description": "A Hubot script that displays the daily status of foodtrucks in Stockholm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Tommy Brunn <tommy.brunn@gmail.com>",
   "license": "MIT",
 

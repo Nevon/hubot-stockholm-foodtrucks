@@ -35,7 +35,7 @@ module.exports = (robot) ->
 
         if trucks.length > 0
           response = "Foodtrucks:\n\n"
-          response += "#{truck.name}:\n  #{truck.post}\n\n" for truck in trucks
+          response += "***** #{truck.name} *****\n  #{truck.post}\n\n" for truck in trucks
         else
           response = "Sorry, but I couldn't find any food trucks"
       else
